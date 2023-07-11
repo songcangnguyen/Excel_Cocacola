@@ -11,4 +11,5 @@ The development of this dashboard involved the utilization of Excel and its adva
 
 To commence your journey with Coca-cola Dashboard, open the Excel file which contains interactive dashboards, allowing you to explore and answer your business questions. 
 
+![Screenshot_dashboard_cocacola](https://github.com/songcangnguyen/Excel_Cocacola/assets/109171837/048a086b-2412-4fff-9767-4d77adc24ef7)
 
